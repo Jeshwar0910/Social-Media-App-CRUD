@@ -1,0 +1,22 @@
+body{
+    margin: 0px 50px;
+}
+
+.container{
+    display: flex;
+    gap: 80px;
+}
+i{
+    cursor: pointer;
+}
+#posts{
+    width: 400px;
+}
+#msg{
+    color: red;
+    font-size: 15px;
+}
+.options{
+    display: flex;
+    gap: 15px;
+}
